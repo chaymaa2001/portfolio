@@ -1,0 +1,9 @@
+.color {
+  background: -webkit-linear-gradient(top, #ad31af, #fa00fe);
+}
+a {
+  color: #fa00fe;
+}
+a:hover {
+  color: #ad31af;
+}
